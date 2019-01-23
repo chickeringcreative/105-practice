@@ -1,0 +1,51 @@
+/****body****/
+body {
+  width:auto;
+  background-color: #b3f0ff;
+}
+
+/****header****/
+header a {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+  text-align:center;
+}
+
+header h1 {
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  text-align:center;
+  text-transform:uppercase;
+
+}
+
+#name {
+  color: #ff3399;
+}
+
+.advice {
+  border: 2px dotted black;
+  width:auto;
+  margin:auto;
+  padding: 10px;
+  text-align:justify;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+
+h4 {
+  font-family: 'Staatliches', cursive;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+footer {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+  text-align:center;
+}
